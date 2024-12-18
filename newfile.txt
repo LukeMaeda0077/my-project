@@ -1,0 +1,1 @@
+Some new content # 新しいファイルを追加する例
